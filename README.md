@@ -1,5 +1,5 @@
 # Water Flow Meter Hot Cold
-Hot and cold water flow meter, can be used in temperature controller, calculates difference and percentage of one sensor in relation to the other.
+Hot and cold water flow meter, can be used in temperature controller, calculates difference and percentage of one sensor (YF-S201) in relation to the other.
 
 -----
 
