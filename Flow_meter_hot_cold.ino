@@ -1,5 +1,5 @@
-#define FLOW_COLD_pin 32
-#define FLOW_HOT_pin 33
+#define FLOW_COLD_pin 32 // YF-S201 sensor 1
+#define FLOW_HOT_pin 33  // YF-S201 sensor 2
 
 uint32_t millis1 = 0;
 
